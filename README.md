@@ -11,3 +11,5 @@ public class TimeServerHandler extends ChannelInboundHandlerAdapter {
 
 Client端也是这样调整的。ChannelInboundHandlerAdapter 代替ChannelHandlerAdapter
 在4.x版本中，在ChanelHandleAdapter中是没有read的方法
+
+ch9 第9章，运行得不到结果，但是其他章节都可以。明天进行检查。
