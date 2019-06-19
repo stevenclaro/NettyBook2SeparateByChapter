@@ -1,2 +1,4 @@
 # NettyBook2SeparateByChapter
 NettyBook2SeparateByChapter
+该书以Netty5.0为基础，为了实用化，将其修改为Netty4.X的版本
+以章节作为基础进行编制
