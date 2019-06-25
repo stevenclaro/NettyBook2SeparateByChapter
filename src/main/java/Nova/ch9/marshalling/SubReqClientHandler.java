@@ -15,8 +15,8 @@
  */
 package Nova.ch9.marshalling;
 
-/*import com.phei.netty.codec.pojo.SubscribeReq;*/
 import Nova.ch9.pojo.SubscribeReq;
+
 import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
@@ -38,6 +38,7 @@ public class SubReqClientHandler extends ChannelInboundHandlerAdapter {
     public void channelActive(ChannelHandlerContext ctx) {
 	for (int i = 0; i < 10; i++) {
 	    ctx.write(subReq(i));
+
 	}
 	ctx.flush();
     }
