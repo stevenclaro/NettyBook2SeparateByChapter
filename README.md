@@ -12,7 +12,8 @@ public class TimeServerHandler extends ChannelInboundHandlerAdapter {
 Client端也是这样调整的。ChannelInboundHandlerAdapter 代替ChannelHandlerAdapter
 在4.x版本中，在ChanelHandleAdapter中是没有read的方法
 
-ch7在maven中没有，后面考虑从原始的代码中Copy过来
+ch7在maven中没有，参考https://blog.csdn.net/wildwolf_001/article/details/81330110
+把代码补齐了
 
 ch9 第9章，客户端无法发送，服务器也没有收到，
 现象是：链接已经建立，但是双方都没有收到现象。关键的问题，是如何寻找客户端发出消息或者服务端接受消息？

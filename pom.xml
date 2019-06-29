@@ -40,6 +40,12 @@
       <artifactId>jboss-marshalling-serial</artifactId>
       <version>1.4.11.Final</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.msgpack/msgpack -->
+    <dependency>
+      <groupId>org.msgpack</groupId>
+      <artifactId>msgpack</artifactId>
+      <version>0.6.12</version>
+    </dependency>
 
       <dependency>
           <groupId>com.google.protobuf</groupId>
