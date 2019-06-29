@@ -20,6 +20,7 @@ import Nova.ch10.http.xml.codec.HttpXmlResponse;
 import Nova.ch10.http.xml.pojo.OrderFactory;
 
 import io.netty.channel.ChannelHandlerContext;
+import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.channel.SimpleChannelInboundHandler;
 
 /**
@@ -28,7 +29,7 @@ import io.netty.channel.SimpleChannelInboundHandler;
  * @version 1.0
  */
 public class HttpXmlClientHandle extends
-        SimpleChannelInboundHandler<HttpXmlResponse> {
+        SimpleChannelInboundHandler<HttpXmlResponse>{
 
     @Override
     public void channelActive(ChannelHandlerContext ctx) {
@@ -43,6 +44,16 @@ public class HttpXmlClientHandle extends
 	cause.printStackTrace();
 	ctx.close();
     }
+   /* @Override
+	public  void  channelRead(ChannelHandlerContext ctx,  HttpXmlResponse msg)
+			throws Exception
+	{
+		System.out.println("The client receive response of http header is : "
+			+ msg.getHttpResponse().headers().names());
+		System.out.println("The client receive response of http body is : "
+				+ msg.getResult());
+		ctx.fireChannelRead(msg);
+	}*/
     @Override
     public void channelRead0(ChannelHandlerContext ctx,  HttpXmlResponse msg)
             throws Exception {

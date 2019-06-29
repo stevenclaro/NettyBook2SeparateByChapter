@@ -29,7 +29,7 @@ import java.nio.charset.Charset;
 
 /**
  * @author Lilinfeng
- * @date 2014年3月1日
+ * @date 2014年3月1日`12 y
  * @version 1.0
  */
 public abstract class AbstractHttpXmlDecoder<T> extends

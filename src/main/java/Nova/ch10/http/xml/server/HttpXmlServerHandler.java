@@ -58,7 +58,11 @@ public class HttpXmlServerHandler extends
 	if (!isKeepAlive(request)) {
 	    future.addListener(new GenericFutureListener<Future<? super Void>>() {
 		public void operationComplete(Future future) throws Exception {
-		    ctx.close();
+			if(future.isSuccess())
+				System.out.println("Future的状态成功: ");
+			else
+				System.out.println("Future的状态没有成功: ");
+			ctx.close();
 		}
 	    });
 	}
