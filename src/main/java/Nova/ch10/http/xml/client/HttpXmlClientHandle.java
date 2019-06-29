@@ -22,14 +22,15 @@ import Nova.ch10.http.xml.pojo.OrderFactory;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.channel.SimpleChannelInboundHandler;
+import io.netty.handler.codec.http.DefaultFullHttpResponse;
+import io.netty.handler.codec.http.FullHttpResponse;
 
 /**
  * @author Administrator
  * @date 2014年2月16日
  * @version 1.0
  */
-public class HttpXmlClientHandle extends
-        SimpleChannelInboundHandler<HttpXmlResponse>{
+public class HttpXmlClientHandle extends ChannelInboundHandlerAdapter{
 
     @Override
     public void channelActive(ChannelHandlerContext ctx) {
@@ -44,17 +45,22 @@ public class HttpXmlClientHandle extends
 	cause.printStackTrace();
 	ctx.close();
     }
-   /* @Override
-	public  void  channelRead(ChannelHandlerContext ctx,  HttpXmlResponse msg)
+    @Override
+	public  void  channelRead(ChannelHandlerContext ctx,  Object msg)
 			throws Exception
 	{
+       // HttpXmlResponse msgh=(HttpXmlResponse)msg;
+        FullHttpResponse msgh = (FullHttpResponse) msg;
+		/*DefaultFullHttpResponse df=(DefaultFullHttpResponse)msg;
+		System.out.println("The client receive response : "
+				+ df.content());*/
 		System.out.println("The client receive response of http header is : "
-			+ msg.getHttpResponse().headers().names());
+			+ msgh.headers().names());
 		System.out.println("The client receive response of http body is : "
-				+ msg.getResult());
-		ctx.fireChannelRead(msg);
-	}*/
-    @Override
+				+ msgh.content());
+		ctx.fireChannelRead(msgh);
+	}
+   /* @Override
     public void channelRead0(ChannelHandlerContext ctx,  HttpXmlResponse msg)
             throws Exception {
 
@@ -63,5 +69,5 @@ public class HttpXmlClientHandle extends
 		+ msg.getHttpResponse().headers().names());
 	System.out.println("The client receive response of http body is : "
 		+ msg.getResult());
-    }
+    }*/
 }
