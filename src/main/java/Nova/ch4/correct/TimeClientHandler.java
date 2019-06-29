@@ -53,6 +53,7 @@ public class TimeClientHandler extends ChannelInboundHandlerAdapter {
 	    message.writeBytes(req);
 	    ctx.writeAndFlush(message);
 	}
+		//ctx.writeAndFlush(message);
     }
 
     @Override

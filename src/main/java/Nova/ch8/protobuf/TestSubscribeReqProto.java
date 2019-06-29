@@ -24,6 +24,7 @@ import java.util.List;
  * @author Administrator
  * @date 2014年2月23日
  * @version 1.0
+ * 估计是需要proto文件转为java文件。那么如何将java类文件转为proto文件呢？
  */
 public class TestSubscribeReqProto {
 

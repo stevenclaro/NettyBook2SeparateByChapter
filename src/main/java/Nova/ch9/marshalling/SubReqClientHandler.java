@@ -15,8 +15,8 @@
  */
 package Nova.ch9.marshalling;
 
-import Nova.ch9.pojo.SubscribeReq;
 
+import Nova.ch9.pojo.SubscribeReq;
 import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

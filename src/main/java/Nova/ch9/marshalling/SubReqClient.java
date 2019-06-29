@@ -23,6 +23,8 @@ import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
+import io.netty.handler.logging.LogLevel;
+import io.netty.handler.logging.LoggingHandler;
 
 /**
  * @author lilinfeng
@@ -38,6 +40,7 @@ public class SubReqClient {
 	    Bootstrap b = new Bootstrap();
 	    b.group(group).channel(NioSocketChannel.class)
 		    .option(ChannelOption.TCP_NODELAY, true)
+			.handler(new LoggingHandler(LogLevel.ERROR))
 		    .handler(new ChannelInitializer<SocketChannel>() {
 			@Override
 			public void initChannel(SocketChannel ch)

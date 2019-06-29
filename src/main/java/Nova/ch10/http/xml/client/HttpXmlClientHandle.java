@@ -35,6 +35,7 @@ public class HttpXmlClientHandle extends
 	HttpXmlRequest request = new HttpXmlRequest(null,
 		OrderFactory.create(123));
 	ctx.writeAndFlush(request);
+	System.out.println("已经发生信息到服务器");
     }
 
     @Override

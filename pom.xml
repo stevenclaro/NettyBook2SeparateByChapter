@@ -33,8 +33,14 @@
       <dependency>
           <groupId>org.jboss.marshalling</groupId>
           <artifactId>jboss-marshalling</artifactId>
-          <version>1.4.10.Final</version>
+          <version>1.4.11.Final</version>
       </dependency>
+    <dependency>
+      <groupId>org.jboss.marshalling</groupId>
+      <artifactId>jboss-marshalling-serial</artifactId>
+      <version>1.4.11.Final</version>
+    </dependency>
+
       <dependency>
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
@@ -45,6 +51,12 @@
           <artifactId>jibx-run</artifactId>
           <version>1.2.5</version>
       </dependency>
+
+    <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>1.2</version>
+    </dependency>
   </dependencies>
 
 
@@ -90,7 +102,29 @@
           <artifactId>maven-project-info-reports-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
+        <plugin><!-- 生成jibx class信息 -->
+          <groupId>org.jibx</groupId>
+          <artifactId>jibx-maven-plugin</artifactId>
+          <version>1.2.6</version>
+          <configuration>
+            <schemaBindingDirectory>${basedir}/target/classes/jibx</schemaBindingDirectory>
+            <includeSchemaBindings>
+              <includeSchemaBindings>*bind.xml</includeSchemaBindings>
+            </includeSchemaBindings>
+            <verbose>true</verbose>
+          </configuration>
+          <executions>
+            <execution>
+              <id>jibx-bind</id>
+              <phase>compile</phase><!--把jibx绑定到了comile编译阶段 -->
+              <goals>
+                <goal>bind</goal>
+              </goals>
+            </execution>
+          </executions>
+        </plugin>
       </plugins>
     </pluginManagement>
   </build>
+
 </project>
