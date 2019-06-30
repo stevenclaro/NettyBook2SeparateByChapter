@@ -68,8 +68,11 @@ public class HttpXmlClient {
 				    new HttpRequestEncoder());
 			    ch.pipeline().addLast("xml-encoder",
 				    new HttpXmlRequestEncoder());
-			    ch.pipeline().addLast("xmlClientHandler",
-				    new HttpXmlClientHandle());
+			    /*ch.pipeline().addLast("xmlClientHandler",
+				    new HttpXmlClientHandle());*/
+				ch.pipeline().addLast("xmlClientHandler",
+						new HttpXmlClientHandle());
+
 			}
 		    });
 
@@ -89,7 +92,7 @@ public class HttpXmlClient {
      * @throws Exception
      */
     public static void main(String[] args) throws Exception {
-	int port = 8080;
+	int port = 8081;
 	if (args != null && args.length > 0) {
 	    try {
 		port = Integer.valueOf(args[0]);

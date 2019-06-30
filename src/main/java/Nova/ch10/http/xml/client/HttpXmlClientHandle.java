@@ -19,25 +19,30 @@ import Nova.ch10.http.xml.codec.HttpXmlRequest;
 import Nova.ch10.http.xml.codec.HttpXmlResponse;
 import Nova.ch10.http.xml.pojo.OrderFactory;
 
+import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.channel.SimpleChannelInboundHandler;
+import io.netty.handler.codec.ByteToMessageDecoder;
 import io.netty.handler.codec.http.DefaultFullHttpResponse;
 import io.netty.handler.codec.http.FullHttpResponse;
+
+import java.util.List;
 
 /**
  * @author Administrator
  * @date 2014年2月16日
  * @version 1.0
  */
-public class HttpXmlClientHandle extends ChannelInboundHandlerAdapter{
+public class HttpXmlClientHandle extends ChannelInboundHandlerAdapter {
 
     @Override
     public void channelActive(ChannelHandlerContext ctx) {
+		System.out.println("连接上服务器...");
 	HttpXmlRequest request = new HttpXmlRequest(null,
 		OrderFactory.create(123));
 	ctx.writeAndFlush(request);
-	System.out.println("已经发生信息到服务器");
+
     }
 
     @Override
@@ -45,20 +50,32 @@ public class HttpXmlClientHandle extends ChannelInboundHandlerAdapter{
 	cause.printStackTrace();
 	ctx.close();
     }
+
     @Override
 	public  void  channelRead(ChannelHandlerContext ctx,  Object msg)
 			throws Exception
 	{
-       // HttpXmlResponse msgh=(HttpXmlResponse)msg;
+		System.out.println(msg.getClass().getName());
+		System.out.println("接收到了数据..." + msg);
+       /* HttpXmlResponse msghl=(HttpXmlResponse)msg;
+		System.out.println("The Mess Name is : "+ msg.getClass().getName());
         FullHttpResponse msgh = (FullHttpResponse) msg;
-		/*DefaultFullHttpResponse df=(DefaultFullHttpResponse)msg;
+		*//*ByteBuf buf=(ByteBuf) msg;
+		byte[] req=new byte[buf.readableBytes()];
+
+		buf.readBytes(req);
+		String bodys=new String(req,"UTF-8");
+		System.out.println("The bodys is : "+ bodys);*//*
+		System.out.println("The client receive response of http header is : "
+				+ msgh.headers().names());
+		*//*DefaultFullHttpResponse df=(DefaultFullHttpResponse)msg;
 		System.out.println("The client receive response : "
-				+ df.content());*/
+				+ df.content());*//*
 		System.out.println("The client receive response of http header is : "
 			+ msgh.headers().names());
 		System.out.println("The client receive response of http body is : "
 				+ msgh.content());
-		ctx.fireChannelRead(msgh);
+		ctx.fireChannelRead(msgh);*/
 	}
    /* @Override
     public void channelRead0(ChannelHandlerContext ctx,  HttpXmlResponse msg)

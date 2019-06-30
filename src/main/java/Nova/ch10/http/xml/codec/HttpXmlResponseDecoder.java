@@ -39,6 +39,7 @@ public class HttpXmlResponseDecoder extends
     @Override
     protected void decode(ChannelHandlerContext ctx,
                           DefaultFullHttpResponse msg, List<Object> out) throws Exception {
+        System.out.println("开始解码...");
 	HttpXmlResponse resHttpXmlResponse = new HttpXmlResponse(msg, decode0(
 		ctx, msg.content()));
 	out.add(resHttpXmlResponse);
