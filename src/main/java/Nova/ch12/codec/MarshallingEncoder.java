@@ -38,12 +38,17 @@ public class MarshallingEncoder {
 
     protected void encode(Object msg, ByteBuf out) throws Exception {
 	try {
+		//获取当前的writeIndex的值
 	    int lengthPos = out.writerIndex();
+	    //在当前的writerIndex处写入 LENGTH_PLACEHOLDER 个字节值，并将writerIndex 增加 LENGTH_PLACEHOLDER=4
 	    out.writeBytes(LENGTH_PLACEHOLDER);
 	    ChannelBufferByteOutput output = new ChannelBufferByteOutput(out);
 	    marshaller.start(output);
 	    marshaller.writeObject(msg);
 	    marshaller.finish();
+	    //在协议定义的时候，length 是整型 int ，长度32，包括消息头和消息体。
+	    //设定给定索引处的int值，但并不影响索引值
+	//debug的时候，检测一下readindex及writeindex的值
 	    out.setInt(lengthPos, out.writerIndex() - lengthPos - 4);
 	} finally {
 	    marshaller.close();

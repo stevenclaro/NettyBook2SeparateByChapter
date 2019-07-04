@@ -22,6 +22,7 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToByteEncoder;
 
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.util.Map;
 
 /**
@@ -67,7 +68,13 @@ public final class NettyMessageEncoder extends
 	if (msg.getBody() != null) {
 	    marshallingEncoder.encode(msg.getBody(), sendBuf);
 	} else
+		//这个时候readerIndex=0;writeIndex=22
 	    sendBuf.writeInt(0);
+
+	//sendBuf.readBytes(10).toString(Charset.forName("UTF-8"));
+	String result=sendBuf.toString(Charset.forName("GB2312"));
+	//执行之后，readerIndex=0；writeIndex=26；增加了4
+		// 对从第4位开始，因为bytebuf是从0位开始计算的。从第4位开始，写入长度26-8=18位。把后面的attachment去掉
 	sendBuf.setInt(4, sendBuf.readableBytes() - 8);
     }
 }

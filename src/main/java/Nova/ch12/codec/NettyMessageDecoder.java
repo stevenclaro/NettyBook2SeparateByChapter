@@ -45,12 +45,14 @@ public class NettyMessageDecoder extends LengthFieldBasedFrameDecoder {
     protected Object decode(ChannelHandlerContext ctx, ByteBuf in)
 	    throws Exception {
 	ByteBuf frame = (ByteBuf) super.decode(ctx, in);
+	//如果为空则说明是一个半包消息，直接返回继续有I/O线程读取后续的码流
 	if (frame == null) {
 	    return null;
 	}
 
 	NettyMessage message = new NettyMessage();
 	Header header = new Header();
+		//注意在读的过程中，readIndex的指针也在移动
 	header.setCrcCode(frame.readInt());
 	header.setLength(frame.readInt());
 	header.setSessionID(frame.readLong());

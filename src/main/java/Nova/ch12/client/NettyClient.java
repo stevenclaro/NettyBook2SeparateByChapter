@@ -59,6 +59,8 @@ public class NettyClient {
             Bootstrap b = new Bootstrap();
             b.group(group).channel(NioSocketChannel.class)
                     .option(ChannelOption.TCP_NODELAY, true)
+                    //TCP/IP协议中针对TCP默认开启了Nagle算法。Nagle算法通过减少需要传输的数据包，来优化网络。在内核实现中，数据包的发送和接受会先做缓存，分别对应于写缓存和读缓存。
+                    //启动TCP_NODELAY，就意味着禁用了Nagle算法，允许小包的发送。对于延时敏感型，同时数据传输量比较小的应用，开启TCP_NODELAY选项无疑是一个正确的选择
                     .handler(new ChannelInitializer<SocketChannel>() {
                         @Override
                         public void initChannel(SocketChannel ch)
@@ -68,7 +70,7 @@ public class NettyClient {
                             ch.pipeline().addLast("MessageEncoder",
                                     new NettyMessageEncoder());
                             ch.pipeline().addLast("readTimeoutHandler",
-                                    new ReadTimeoutHandler(50));
+                                    new ReadTimeoutHandler(50000));
                             ch.pipeline().addLast("LoginAuthHandler",
                                     new LoginAuthReqHandler());
                             ch.pipeline().addLast("HeartBeatHandler",
