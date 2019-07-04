@@ -76,10 +76,10 @@ public class UserInfo implements Serializable {
 
     public byte[] codeC() {
 	ByteBuffer buffer = ByteBuffer.allocate(1024);
-	byte[] value = this.userName.getBytes();
-	buffer.putInt(value.length);
-	buffer.put(value);
-	buffer.putInt(this.userID);
+	byte[] value = this.userName.getBytes();//长度16
+	buffer.putInt(value.length);//放入4
+	buffer.put(value);//放入16，到达20
+	buffer.putInt(this.userID);//在放入4，到达24
 	buffer.flip();
 	value = null;
 	byte[] result = new byte[buffer.remaining()];
@@ -89,10 +89,10 @@ public class UserInfo implements Serializable {
 
     public byte[] codeC(ByteBuffer buffer) {
 	buffer.clear();
-	byte[] value = this.userName.getBytes();
-	buffer.putInt(value.length);
-	buffer.put(value);
-	buffer.putInt(this.userID);
+	byte[] value = this.userName.getBytes();//如这个
+	buffer.putInt(value.length);//放入一个长度的int值
+	buffer.put(value);//然后放入 byte[]的值
+	buffer.putInt(this.userID);//
 	buffer.flip();
 	value = null;
 	byte[] result = new byte[buffer.remaining()];
