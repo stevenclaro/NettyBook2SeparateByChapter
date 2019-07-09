@@ -14,14 +14,11 @@
  * limitations under the License.
  */
 package Nova.ch12.codec;
-
-
 import Nova.ch12.struct.Header;
 import Nova.ch12.struct.NettyMessage;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.LengthFieldBasedFrameDecoder;
-
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;

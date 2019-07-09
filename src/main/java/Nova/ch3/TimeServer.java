@@ -53,7 +53,7 @@ public class TimeServer {
      * @throws Exception
      */
     public static void main(String[] args) throws Exception {
-        int port = 8080;
+        int port = 8081;
         if (args != null && args.length > 0) {
             try {
                 port = Integer.valueOf(args[0]);
