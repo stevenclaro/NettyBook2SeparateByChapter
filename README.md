@@ -1,6 +1,6 @@
 # NettyBook2SeparateByChapter
 NettyBook2SeparateByChapter
-该书以Netty5.0为基础，为了实用化，将其修改为Netty4.X的版本
+该书以Netty5.0为基础，为了实用化，将其修改为Netty4.X的版本。在POM中的版本是4.1.28.Final。在2019年10月25日，当前的版本是4.1.43Final
 以章节作为基础进行编制
 
 ch3调整的地方
@@ -41,4 +41,5 @@ ch9 第9章，客户端无法发送，服务器也没有收到，
  
  在12章，增补了采用Json传递的方式，比xml简单，不需要单独对json在外部进行处理。直接在同一个程序进行处理。
  在第4章中，增加了Netty的连接数统计，目录是NonFunction ,但是对于客户端没有优雅的关闭，需要进一步研发进行关闭。
+ 
  
