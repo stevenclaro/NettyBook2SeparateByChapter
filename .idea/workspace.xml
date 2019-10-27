@@ -5,8 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3877709-1e9d-424e-b359-ad81dec2fb66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/.idea/MultiClientTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Nova/ch12/NettyMessageSequ.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nova/ch12/NettyMessageSequ.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Netty.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/client/HttpJsonClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/client/HttpJsonClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/pojo/OrderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/pojo/OrderFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/client/HttpXmlClientHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/client/HttpXmlClientHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/codec/HttpXmlResponseDecoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/codec/HttpXmlResponseDecoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/JiBX_bindingFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/JiBX_bindingMungeAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/JiBX_bindingOrder_access.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/JiBX_bindingOrder_access1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/JiBX_bindingOrder_access2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/JiBX_bindingOrder_access3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/JiBX_bindingOrder_access4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/OrderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/OrderFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch11/websocketserver/WebSocketServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch11/websocketserver/WebSocketServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch12/codec/MarshallingEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch12/codec/MarshallingEncoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch12/codec/NettyMessageEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch12/codec/NettyMessageEncoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/ClientPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/ClientPool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/ClientPool$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/ClientPool$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/ClientPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/ClientPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/MockServer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/MockServer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/client/EchoClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/client/EchoClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/server/EchoServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/server/EchoServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/binding.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pojo.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,108 +63,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeServer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseEncoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+            <state relative-caret-position="297">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="459">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#761#762#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageToMessageDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/SimpleChannelInboundHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="250">
-                <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/client/HttpJsonClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequestEncoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="27" />
+            <state relative-caret-position="269">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeClientHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequestDecoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="375">
+              <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/TimeClientHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonEncoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2888">
-              <caret line="207" selection-start-line="207" selection-end-line="207" />
-              <folding>
-                <element signature="e#15417#15418#0" expanded="true" />
-                <element signature="e#15459#15460#0" expanded="true" />
-                <element signature="e#26510#26511#0" expanded="true" />
-                <element signature="e#26565#26566#0" expanded="true" />
-                <element signature="e#27968#27969#0" expanded="true" />
-                <element signature="e#28039#28040#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15960">
-              <caret line="941" selection-start-line="941" selection-end-line="941" />
-              <folding>
-                <element signature="e#34436#34437#0" expanded="true" />
-                <element signature="e#34471#34472#0" expanded="true" />
-                <element signature="e#35915#35916#0" expanded="true" />
-                <element signature="e#35962#35963#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5377">
-              <caret line="351" selection-start-line="351" selection-end-line="351" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7429">
-              <caret line="462" selection-start-line="462" selection-end-line="462" />
+            <state relative-caret-position="306">
+              <caret line="19" column="87" selection-start-line="19" selection-start-column="87" selection-end-line="19" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -160,6 +191,7 @@
       <find>writeAndFlush</find>
       <find>ctx.writeAndFlush</find>
       <find>ChannelFutureListener</find>
+      <find>catch</find>
     </findStrings>
     <replaceStrings>
       <replace>Nova.ch8.protobuf</replace>
@@ -194,7 +226,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/server/HttpJsonServerHandler.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/FastJsonUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonEncoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonDecoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseEncoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/server/HttpJsonServer.java" />
@@ -204,11 +235,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/NettyConstant.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/server/NettyServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/client/NettyClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingEncoder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageEncoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch6/serializable/UserInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageDecoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch3/TimeClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch4/NonFunction/TimeServer.java" />
@@ -222,6 +250,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/EchoServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/ClientPool.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonEncoder.java" />
       </list>
     </option>
   </component>
@@ -253,7 +285,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -263,43 +295,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -383,76 +379,175 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="ProjectPane">
+        <subPane>
           <expand>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Nova" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Nova" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch4" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Nova" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch4" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="correct" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Nova" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch4" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="NonFunction" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NettyBook2SeparateByChapter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Netty" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Nova" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch12" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Nova" type="462c0819:PsiDirectoryNode" />
+              <item name="ch12" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyBook2SeparateByChapter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -465,7 +560,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty-in-action" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -502,13 +597,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClientPool (1)">
-    <configuration name="ClientPool (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nova.ch4.MultiClientTest.ClientPool" />
+  <component name="RunManager" selected="Application.HttpJsonClient">
+    <configuration name="HttpJsonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nova.ch10.http.json.client.HttpJsonClient" />
       <module name="Netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nova.ch4.MultiClientTest.*" />
+          <option name="PATTERN" value="Nova.ch10.http.json.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,12 +611,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nova.ch4.NonFunction.ClientPool" />
+    <configuration name="HttpJsonServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nova.ch10.http.json.server.HttpJsonServer" />
       <module name="Netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nova.ch4.NonFunction.*" />
+          <option name="PATTERN" value="Nova.ch10.http.json.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -529,12 +624,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MockServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nova.ch4.MultiClientTest.MockServer" />
+    <configuration name="HttpXmlClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nova.ch10.http.xml.client.HttpXmlClient" />
       <module name="Netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nova.ch4.MultiClientTest.*" />
+          <option name="PATTERN" value="Nova.ch10.http.xml.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -542,12 +637,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nova.ch4.MultiClientTest.TimeClient" />
+    <configuration name="HttpXmlServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nova.ch10.http.xml.server.HttpXmlServer" />
       <module name="Netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nova.ch4.MultiClientTest.*" />
+          <option name="PATTERN" value="Nova.ch10.http.xml.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -555,12 +650,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nova.ch4.MultiClientTest.TimeServer" />
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nova.ch12.client.NettyClient" />
       <module name="Netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nova.ch4.MultiClientTest.*" />
+          <option name="PATTERN" value="Nova.ch12.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -570,11 +665,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClientPool (1)" />
-        <item itemvalue="Application.MockServer" />
-        <item itemvalue="Application.TimeClient (1)" />
-        <item itemvalue="Application.TimeServer (1)" />
-        <item itemvalue="Application.ClientPool" />
+        <item itemvalue="Application.HttpJsonClient" />
+        <item itemvalue="Application.HttpJsonServer" />
+        <item itemvalue="Application.HttpXmlClient" />
+        <item itemvalue="Application.HttpXmlServer" />
+        <item itemvalue="Application.NettyClient" />
       </list>
     </recent_temporary>
   </component>
@@ -618,18 +713,21 @@
       <workItem from="1562738159389" duration="7130000" />
       <workItem from="1562824161843" duration="1382000" />
       <workItem from="1564060526202" duration="599000" />
-      <workItem from="1571986385665" duration="384000" />
+      <workItem from="1571986385665" duration="14193000" />
+      <workItem from="1572051093624" duration="5169000" />
+      <workItem from="1572079410612" duration="1530000" />
+      <workItem from="1572138531993" duration="7413000" />
+      <workItem from="1572149744820" duration="21509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198206000" />
+    <option name="totallyTimeSpent" value="247636000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -638,8 +736,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3362256" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27006507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33188722" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -654,7 +752,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" sideWeight="0.4989154" visible="true" weight="0.18230277" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.4989154" visible="true" weight="0.09754797" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -716,12 +814,6 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeClientHandler.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/marshalling/MarshallingEncoder.class</url>
           <line>23</line>
           <properties />
@@ -744,12 +836,6 @@
           <line>32</line>
           <properties />
           <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeClientHandler.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/xml/TestOrder.java</url>
@@ -806,12 +892,6 @@
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/MessageToMessageDecoder.class</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/SimpleChannelInboundHandler.class</url>
           <line>37</line>
           <properties />
@@ -855,45 +935,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/MessageToMessageDecoder.class</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/MessageToMessageDecoder.class</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/MessageToMessageDecoder.class</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageToMessageDecoder.java</url>
-          <line>81</line>
-          <properties />
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectDecoder.java</url>
-          <line>195</line>
-          <properties />
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonDecoder.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Nova/ch12/server/LoginAuthRespHandler.java</url>
@@ -912,12 +956,6 @@
           <line>43</line>
           <properties />
           <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/LoginAuthReqHandler.java</url>
-          <line>77</line>
-          <properties />
-          <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/LoginAuthReqHandler.java</url>
@@ -966,6 +1004,84 @@
           <line>72</line>
           <properties />
           <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeClient.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageEncoder.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/LoginAuthReqHandler.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/HeartBeatReqHandler.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageDecoder.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseEncoder.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/client/HttpJsonClientHandler.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/client/HttpJsonClientHandler.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequestEncoder.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequestEncoder.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequestDecoder.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/client/HttpJsonClientHandler.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1037,107 +1153,38 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="183" column="13" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+        <state relative-caret-position="779">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/server/NettyServer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/TimeClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch6/serializable/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="81" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="164" column="17" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageToByteEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="98" column="103" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/NettyClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="70" column="46" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/LoginAuthReqHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch6/serializable/TestUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="209">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-584">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="950">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        <state relative-caret-position="190">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="67" />
           <folding>
             <element signature="e#1261#1262#0" expanded="true" />
             <element signature="e#1288#1289#0" expanded="true" />
@@ -1145,202 +1192,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="403">
+            <caret line="45" selection-start-line="45" selection-end-line="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/struct/Header.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="237" column="26" selection-start-line="237" selection-start-column="26" selection-end-line="237" selection-end-column="26" />
+        <state relative-caret-position="291">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
           <folding>
-            <element signature="e#7955#7956#0" expanded="true" />
-            <element signature="e#7994#7995#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelOutboundInvoker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/MessageType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/server/HeartBeatRespHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelHandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="111" column="36" selection-start-line="111" selection-start-column="36" selection-end-line="111" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/server/LoginAuthRespHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="80" column="25" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/HeartBeatReqHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2793">
-          <caret line="168" column="37" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/fileserver/FileServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/NonFunction/TimeClient.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/NonFunction/ClientPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="59" column="35" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/NonFunction/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/NonFunction/TimeClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/NonFunction/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/NonFunction/ConnectionCountHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="414">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1253#1254#0" expanded="true" />
-            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/TimeServerHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/TimeServer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/TimeClient.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelInboundHandlerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="64" column="5" selection-start-line="61" selection-start-column="2" selection-end-line="64" selection-end-column="5" />
+        <state relative-caret-position="176">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/ChannelBufferByteInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="152">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/MockServer.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/ByteToMessageDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        <state relative-caret-position="415">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/EchoServerHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/NettyConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="43" column="67" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
+        <state relative-caret-position="252">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/ClientPool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/NettyClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="68" column="55" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2242">
-          <caret line="155" selection-start-line="155" selection-end-line="155" />
+        <state relative-caret-position="168">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
           <folding>
-            <element signature="e#2025#2026#0" expanded="true" />
-            <element signature="e#2060#2061#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeClientHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/struct/NettyMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="176">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#1136#1137#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/TimeClientHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/timeout/IdleStateHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="214">
+          <caret line="305" selection-start-line="305" selection-end-line="305" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageToByteEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/LoginAuthReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2888">
-          <caret line="207" selection-start-line="207" selection-end-line="207" />
+        <state relative-caret-position="244">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
           <folding>
             <element signature="e#15417#15418#0" expanded="true" />
             <element signature="e#15459#15460#0" expanded="true" />
@@ -1352,61 +1315,245 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/server/NettyServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15960">
-          <caret line="941" selection-start-line="941" selection-end-line="941" />
+        <state relative-caret-position="536">
+          <caret line="71" column="61" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="30" column="52" lean-forward="true" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/memcache/binary/BinaryMemcacheClientCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="90" column="17" lean-forward="true" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="341" column="27" selection-start-line="341" selection-start-column="27" selection-end-line="341" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/server/HeartBeatRespHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/HeartBeatReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/xml/server/HttpXmlServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/NettyMessageEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
-            <element signature="e#34436#34437#0" expanded="true" />
-            <element signature="e#34471#34472#0" expanded="true" />
-            <element signature="e#35915#35916#0" expanded="true" />
-            <element signature="e#35962#35963#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/server/LoginAuthRespHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5377">
-          <caret line="351" selection-start-line="351" selection-end-line="351" />
+        <state relative-caret-position="324">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/xml/client/HttpXmlClientHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7429">
-          <caret line="462" selection-start-line="462" selection-end-line="462" />
+        <state relative-caret-position="102">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeServer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/xml/client/HttpXmlClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+        <state relative-caret-position="448">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#1901#2675#0" expanded="true" />
+            <element signature="e#2674#2675#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="369">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/codec/MarshallingCodecFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="27" />
+        <state relative-caret-position="-412">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="250">
-            <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/server/HttpJsonServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/pojo/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/pojo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/pojo/OrderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/HttpResponseDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="92" column="11" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="87" column="26" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+          <folding>
+            <element signature="e#5260#5261#0" expanded="true" />
+            <element signature="e#5305#5306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/client/HttpJsonClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/http/HttpObjectDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/codec/MessageToMessageDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/AbstractHttpJsonEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="87" selection-start-line="19" selection-start-column="87" selection-end-line="19" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequestEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonRequestDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="47" column="62" selection-start-line="47" selection-start-column="62" selection-end-line="47" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/SimpleChannelInboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/json/client/HttpJsonClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

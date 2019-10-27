@@ -12,6 +12,8 @@ public class TimeServerHandler extends ChannelInboundHandlerAdapter {
 Client端也是这样调整的。ChannelInboundHandlerAdapter 代替ChannelHandlerAdapter
 在4.x版本中，在ChanelHandleAdapter中是没有read的方法
 
+ 在第4章中，增加了Netty的连接数统计，目录是NonFunction ,但是对于客户端没有优雅的关闭，需要进一步研发进行关闭。
+ 
 ch7在maven中没有，参考https://blog.csdn.net/wildwolf_001/article/details/81330110
 把代码补齐了
 
@@ -40,6 +42,5 @@ ch9 第9章，客户端无法发送，服务器也没有收到，
   bug修复：客户端能启动，但是有一个responseDecode在Pipeline中，但是就没有执行到这个类中。非常奇怪。
  
  在12章，增补了采用Json传递的方式，比xml简单，不需要单独对json在外部进行处理。直接在同一个程序进行处理。
- 在第4章中，增加了Netty的连接数统计，目录是NonFunction ,但是对于客户端没有优雅的关闭，需要进一步研发进行关闭。
- 
- 
+
+ 在这里面，采用了心跳检查的自定义的handle。其实，可以采用Netty自己带的参数配置来获得同样的效果。

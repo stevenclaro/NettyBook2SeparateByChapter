@@ -17,7 +17,7 @@ public abstract class AbstractHttpJsonEncoder<T> extends MessageToMessageEncoder
 
     protected ByteBuf encode0(ChannelHandlerContext ctx, Object body) {
         String jsonStr = FastJsonUtils.convertObjectToJSON(body);
-        ByteBuf encodeBuf = Unpooled.copiedBuffer(jsonStr, UTF_8);
+        ByteBuf encodeBuf = Unpooled.copiedBuffer(jsonStr, UTF_8);//这个地方进行序列化，比起xml要好处理
         return encodeBuf;
     }
 

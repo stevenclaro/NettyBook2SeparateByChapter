@@ -76,5 +76,7 @@ public final class NettyMessageEncoder extends
 	//执行之后，readerIndex=0；writeIndex=26；增加了4
 		// 对从第4位开始，因为bytebuf是从0位开始计算的。从第4位开始，写入长度26-8=18位。把后面的attachment去掉
 	sendBuf.setInt(4, sendBuf.readableBytes() - 8);
+	//对长度字段进行更新，初始化的时候，长度字段当时设置为0
+		//协议的规定，应该是这个数据的长度，attmentsize是0的4位去掉，还有一个是body为空的时候0，或者是body有值，但是body本身有一个length4位去掉
     }
 }

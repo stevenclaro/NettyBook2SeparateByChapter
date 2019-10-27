@@ -50,6 +50,9 @@ public class MarshallingEncoder {
 	    //设定给定索引处的int值，但并不影响索引值
 	//debug的时候，检测一下readindex及writeindex的值
 	    out.setInt(lengthPos, out.writerIndex() - lengthPos - 4);
+	    //因为前面增加了LENGTH_PLACEHOLDER，占用了4个字符。所以就把这个地方覆盖了。
+		//真正数据的长度，需要把这个占位符去掉。
+		//所以，这个协议的数据格式应该是，body前面有4位，是有效数据的长度，这个长度不包含自己。后面才是真正的数据
 	} finally {
 	    marshaller.close();
 	}
