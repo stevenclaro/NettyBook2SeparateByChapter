@@ -50,6 +50,8 @@ public class TimeClientHandler extends ChannelInboundHandlerAdapter {
 	ByteBuf message = null;
 	for (int i = 0; i < 100; i++) {
 	    message = Unpooled.buffer(req.length);
+
+
 	    message.writeBytes(req);
 	    ctx.writeAndFlush(message);
 	}

@@ -89,7 +89,7 @@ public class LoginAuthRespHandler extends ChannelInboundHandlerAdapter {
 	Header header = new Header();
 	header.setType(MessageType.LOGIN_RESP.value());
 	message.setHeader(header);
-	message.setBody(result);
+	message.setBody(result);//回应的时候，在body中已经增加了值。
 	return message;
     }
 

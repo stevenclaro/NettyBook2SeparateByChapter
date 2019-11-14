@@ -60,21 +60,21 @@ public final class NettyMessageEncoder extends
 	    sendBuf.writeInt(keyArray.length);
 	    sendBuf.writeBytes(keyArray);
 	    value = param.getValue();
-	    marshallingEncoder.encode(value, sendBuf);
+	    marshallingEncoder.encode(value, sendBuf);//如果有多个附件，那么就是多个value的长度值
 	}
 	key = null;
 	keyArray = null;
 	value = null;
 	if (msg.getBody() != null) {
-	    marshallingEncoder.encode(msg.getBody(), sendBuf);
+	    marshallingEncoder.encode(msg.getBody(), sendBuf);//对body，采用header上附件一样的编码方式
 	} else
 		//这个时候readerIndex=0;writeIndex=22
 	    sendBuf.writeInt(0);
 
 	//sendBuf.readBytes(10).toString(Charset.forName("UTF-8"));
-	String result=sendBuf.toString(Charset.forName("GB2312"));
+	String result=sendBuf.toString(Charset.forName("GB2312"));//这句话没有作用
 	//执行之后，readerIndex=0；writeIndex=26；增加了4
-		// 对从第4位开始，因为bytebuf是从0位开始计算的。从第4位开始，写入长度26-8=18位。把后面的attachment去掉
+		// 对从第4位开始，因为bytebuf是从0位开始计算的。从第4位开始，写入长度26-8=18位。把后面的attachment及body去掉
 	sendBuf.setInt(4, sendBuf.readableBytes() - 8);
 	//对长度字段进行更新，初始化的时候，长度字段当时设置为0
 		//协议的规定，应该是这个数据的长度，attmentsize是0的4位去掉，还有一个是body为空的时候0，或者是body有值，但是body本身有一个length4位去掉

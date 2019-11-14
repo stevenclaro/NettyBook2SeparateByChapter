@@ -15,14 +15,25 @@
  */
 package Nova.ch6.serializable;
 
+import io.netty.buffer.ByteBuf;
+import io.netty.buffer.ByteBufAllocator;
+import io.netty.buffer.PooledByteBufAllocator;
+import io.netty.util.ReferenceCountUtil;
+import org.msgpack.MessagePack;
+import org.msgpack.annotation.Message;
+
+import java.io.PushbackInputStream;
 import java.io.Serializable;
 import java.nio.ByteBuffer;
+import java.nio.ByteOrder;
+import java.nio.charset.Charset;
 
 /**
  * @author Administrator
  * @date 2014年2月23日
  * @version 1.0
  */
+@Message
 public class UserInfo implements Serializable {
 
     /**
@@ -99,4 +110,32 @@ public class UserInfo implements Serializable {
 	buffer.get(result);
 	return result;
     }
+	/*
+		孙精科采用ByteBuf来实验一下效果
+	 */
+
+    public static ByteOrder BYTE_ORDER = ByteOrder.BIG_ENDIAN;
+
+	private static ByteBufAllocator bufAllocator = PooledByteBufAllocator.DEFAULT;
+
+	public byte[] codeCByByteBuf() {
+
+		ByteBuf buffer = bufAllocator.heapBuffer();
+		buffer = buffer.order(BYTE_ORDER);
+
+		byte[] value = this.userName.getBytes();//长度16
+		buffer.writeInt(value.length);//放入4
+		buffer.writeBytes(value);//放入16，到达20
+		buffer.writeInt(this.userID);//在放入4，到达24
+
+
+		byte[] result = new byte[buffer.writerIndex()];
+		buffer.readBytes(result);
+		buffer.clear();
+		ReferenceCountUtil.release(buffer);
+		return result;
+	}
+
+
+
 }

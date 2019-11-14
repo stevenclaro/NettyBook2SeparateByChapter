@@ -34,7 +34,7 @@ public final class MarshallingCodeCFactory {
      */
     public static MarshallingDecoder buildMarshallingDecoder() {
 	final MarshallerFactory marshallerFactory = Marshalling
-		.getProvidedMarshallerFactory("serial");
+		.getProvidedMarshallerFactory("serial");//参数"serial"表示创建的是Java序列化工厂对象
 	final MarshallingConfiguration configuration = new MarshallingConfiguration();
 	configuration.setVersion(5);
 	UnmarshallerProvider provider = new DefaultUnmarshallerProvider(

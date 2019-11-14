@@ -49,7 +49,7 @@ public class TimeClientHandler extends ChannelInboundHandlerAdapter {
     public void channelActive(ChannelHandlerContext ctx) {
 	ByteBuf message = null;
 	for (int i = 0; i < 100; i++) {
-	    message = Unpooled.buffer(req.length);
+	    message = Unpooled.buffer(req.length);//将数组转为未池化的基于堆内存存储的ByteBuf
 	    message.writeBytes(req);
 	    ctx.writeAndFlush(message);
 	}
@@ -58,9 +58,9 @@ public class TimeClientHandler extends ChannelInboundHandlerAdapter {
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg)
 	    throws Exception {
-	ByteBuf buf = (ByteBuf) msg;
-	byte[] req = new byte[buf.readableBytes()];
-	buf.readBytes(req);
+	ByteBuf buf = (ByteBuf) msg;//先读进来，这个内存已经在Netty的框架中由它自身申请过
+	byte[] req = new byte[buf.readableBytes()];//申请一个受到JVM管理的内存空间
+	buf.readBytes(req);//对该byte[]数组进行赋值
 	String body = new String(req, "UTF-8");
 	System.out.println("Now is : " + body + " ; the counter is : "
 		+ ++counter);

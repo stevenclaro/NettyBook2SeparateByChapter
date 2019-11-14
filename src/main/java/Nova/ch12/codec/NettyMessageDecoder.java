@@ -73,7 +73,7 @@ public class NettyMessageDecoder extends LengthFieldBasedFrameDecoder {
 	    key = null;
 	    header.setAttachment(attch);
 	}
-	if (frame.readableBytes() > 4) {
+	if (frame.readableBytes() > 4) {//说明后面还有第二个附件或者是body，需要继续反序列化读出来
 	    message.setBody(marshallingDecoder.decode(frame));
 	}
 	message.setHeader(header);
