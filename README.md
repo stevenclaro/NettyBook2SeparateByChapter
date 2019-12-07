@@ -38,6 +38,12 @@ ch9 第9章，客户端无法发送，服务器也没有收到，
 已经基本修复好，因为是Netty4.X的一个Bug导致的，simpleinbound方法中有一个方法总是返回false
 
 11章
+    从idea中，打开这个页面，
+    http://localhost:63342/Netty/Nova/ch11/websocketserver/indexEn.html?_ijt=gnij4qhc0ic1ccl0vfoj52utmv
+    先刷新这个页面，得到websocket连接
+    然后在执行发送，就得到结果
+    
+    
 12章，服务器能启动，客户端无法启动，报buildUnMarshalling的错误
 已经解决，就是把POM文件增加了jibx的依赖，就可以正常运行
   
