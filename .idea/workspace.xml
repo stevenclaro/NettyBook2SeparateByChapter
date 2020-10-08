@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47ffda7e-5858-4d96-9c77-6c7be46c3647" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Nova/ch12/NettyMessageSequ.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Nova/ch12/NettyMessageSequ.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/fileserver/HttpFileServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/client/HttpJsonClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/client/HttpJsonClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/codec/HttpJsonResponseDecoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/pojo/OrderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/pojo/OrderFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/json/server/HttpJsonServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/client/HttpXmlClientHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/client/HttpXmlClientHandle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/codec/HttpXmlResponseDecoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/codec/HttpXmlResponseDecoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/OrderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/pojo/OrderFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch10/http/xml/server/HttpXmlServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch11/websocketserver/WebSocketServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch11/websocketserver/WebSocketServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/MockServer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch4/MultiClientTest/MockServer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch6/serializable/TestUserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch6/serializable/TestUserInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/client/EchoClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/client/EchoClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/server/EchoServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Nova/ch7/msgpack/server/EchoServerHandler.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +31,7 @@
       <file leaf-file-name="HttpFileServerHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/fileserver/HttpFileServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
+            <state relative-caret-position="209">
               <caret line="45" column="20" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="35" />
               <folding>
                 <element signature="e#1723#1724#0" expanded="true" />
@@ -64,8 +44,8 @@
       <file leaf-file-name="EchoServerHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            <state relative-caret-position="399">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -73,8 +53,26 @@
       <file leaf-file-name="TimeServerHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="122">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelInboundHandlerAdapter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelHandlerAdapter.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelHandlerAdapter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-143">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -82,17 +80,26 @@
       <file leaf-file-name="TimeServerHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
+            <state relative-caret-position="190">
               <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubReqServerHandler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubReqServerHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch9/marshalling/SubReqServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+            <state relative-caret-position="111">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiplexerTimeServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -100,7 +107,7 @@
       <file leaf-file-name="EchoClientHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="684">
               <caret line="53" column="13" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="13" />
             </state>
           </provider>
@@ -109,35 +116,8 @@
       <file leaf-file-name="EchoClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
+            <state relative-caret-position="551">
               <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch7/msgpack/server/EchoServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch7/msgpack/server/EchoServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="35" column="87" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="97" />
             </state>
           </provider>
         </entry>
@@ -221,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -239,6 +218,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -790,12 +770,13 @@
       <workItem from="1577796672688" duration="81000" />
       <workItem from="1601553117552" duration="3373000" />
       <workItem from="1601646607122" duration="65439000" />
-      <workItem from="1602168740158" duration="905000" />
+      <workItem from="1602168740158" duration="1147000" />
+      <workItem from="1602197553369" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81782000" />
+    <option name="totallyTimeSpent" value="83092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,7 +788,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -823,7 +804,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20877458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2118003" />
       <window_info anchor="right" id="Database" order="7" weight="0.06580938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1065,13 +1046,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1807">
-          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/fileserver/FileServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
@@ -1132,24 +1106,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelHandlerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/DelimiterBasedFrameDecoder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="96" column="44" lean-forward="true" selection-start-line="96" selection-start-column="44" selection-end-line="96" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="27" column="66" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -1322,10 +1282,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1345,63 +1301,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch7/msgpack/server/EchoServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="380">
           <caret line="35" column="87" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch7/msgpack/server/EchoServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="171">
           <caret line="12" column="46" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="570">
           <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="684">
           <caret line="53" column="13" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
+        <state relative-caret-position="551">
           <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
+        <state relative-caret-position="190">
           <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="399">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/fileserver/HttpFileServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
+        <state relative-caret-position="209">
           <caret line="45" column="20" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="35" />
           <folding>
             <element signature="e#1723#1724#0" expanded="true" />
@@ -1412,8 +1361,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch9/marshalling/SubReqServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        <state relative-caret-position="111">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
