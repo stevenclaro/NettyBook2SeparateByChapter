@@ -28,101 +28,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HttpFileServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/fileserver/HttpFileServerHandler.java">
+      <file leaf-file-name="NioEventLoop.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/nio/NioEventLoop.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="35" />
+            <state relative-caret-position="114">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleThreadEventLoop.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/SingleThreadEventLoop.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleThreadEventExecutor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="33" column="111" selection-start-line="33" selection-start-column="111" selection-end-line="33" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderedEventExecutor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/OrderedEventExecutor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventExecutor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/EventExecutor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventExecutorGroup.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/EventExecutorGroup.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduledExecutorService.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="93" column="57" selection-start-line="93" selection-start-column="57" selection-end-line="93" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExecutorService.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Executor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Executor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="135" column="31" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadStopExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch21/ThreadStopExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding>
-                <element signature="e#1723#1724#0" expanded="true" />
-                <element signature="e#1746#1747#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EchoServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChannelInboundHandlerAdapter.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChannelHandlerAdapter.class" pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelHandlerAdapter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-143">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubReqServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch9/marshalling/SubReqServerHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiplexerTimeServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoClientHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoClientHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="53" column="13" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EchoClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/delimiter/EchoClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -138,6 +144,8 @@
       <find>fire</find>
       <find>simplechann</find>
       <find>length</find>
+      <find>run</find>
+      <find>addListener</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -155,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch11/websocketserver/indexEn.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/Nova/ch12/client/NettyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Nova/ch21/ThreadStopExample.java" />
       </list>
     </option>
   </component>
@@ -189,7 +198,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -201,6 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -217,8 +228,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,168 +268,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch4" type="462c0819:PsiDirectoryNode" />
-              <item name="correct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch4" type="462c0819:PsiDirectoryNode" />
-              <item name="fault" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch4" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiClientTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch5" type="462c0819:PsiDirectoryNode" />
-              <item name="delimiter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch5" type="462c0819:PsiDirectoryNode" />
-              <item name="fixedLen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="serializable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="msgpack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="msgpack" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="msgpack" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch9" type="462c0819:PsiDirectoryNode" />
-              <item name="marshalling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch9" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
               <item name="ch10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -463,53 +310,6 @@
               <item name="Nova" type="462c0819:PsiDirectoryNode" />
               <item name="ch10" type="462c0819:PsiDirectoryNode" />
               <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="codec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
               <item name="xml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -543,37 +343,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch12" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch12" type="462c0819:PsiDirectoryNode" />
-              <item name="codec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NettyBook2SeparateByChapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Nova" type="462c0819:PsiDirectoryNode" />
-              <item name="ch12" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="ch21" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
@@ -595,63 +365,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Nova" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="channel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-              <item name="codec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.netty:netty-all:4.1.28.Final" type="70bed36:NamedLibraryElementNode" />
-              <item name="netty-all-4.1.28.Final.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-              <item name="codec" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -683,23 +396,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubReqServer">
+  <component name="RunManager" selected="Application.ThreadStopExample">
     <configuration name="EchoClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Nova.ch7.msgpack.client.EchoClient" />
       <module name="Netty" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Nova.ch7.msgpack.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nova.ch5.delimiter.EchoClient" />
-      <module name="Netty" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Nova.ch5.delimiter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -734,20 +437,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ThreadStopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nova.ch21.ThreadStopExample" />
+      <module name="Netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nova.ch21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.EchoClient" />
       <item itemvalue="Application.TestUserInfo" />
       <item itemvalue="Application.EchoServer (1)" />
       <item itemvalue="Application.EchoClient (1)" />
       <item itemvalue="Application.SubReqServer" />
+      <item itemvalue="Application.ThreadStopExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadStopExample" />
         <item itemvalue="Application.SubReqServer" />
         <item itemvalue="Application.EchoClient (1)" />
         <item itemvalue="Application.EchoServer (1)" />
         <item itemvalue="Application.TestUserInfo" />
-        <item itemvalue="Application.EchoClient" />
       </list>
     </recent_temporary>
   </component>
@@ -771,12 +484,15 @@
       <workItem from="1601553117552" duration="3373000" />
       <workItem from="1601646607122" duration="65439000" />
       <workItem from="1602168740158" duration="1147000" />
-      <workItem from="1602197553369" duration="1068000" />
+      <workItem from="1602197553369" duration="1230000" />
+      <workItem from="1602284105520" duration="587000" />
+      <workItem from="1602335190990" duration="5925000" />
+      <workItem from="1602814096762" duration="2602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83092000" />
+    <option name="totallyTimeSpent" value="92368000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -788,31 +504,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289256" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.1627907" />
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1785124" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.1627907" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2118003" />
-      <window_info anchor="right" id="Database" order="7" weight="0.06580938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22087745" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.06505295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289256" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -1025,126 +741,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/TimeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/TimeClientHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="82" column="38" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/fileserver/FileServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="30" column="66" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch10/http/xml/server/HttpXmlServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/MockServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-          <folding>
-            <element signature="e#1021#1430#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/MultiClientTest/ClientPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/LoginAuthReqHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/fixedLen/EchoServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/FixedLengthFrameDecoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch5/fixedLen/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/DelimiterBasedFrameDecoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="96" column="44" lean-forward="true" selection-start-line="96" selection-start-column="44" selection-end-line="96" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/string/StringDecoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="30" column="102" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="956" column="18" selection-start-line="956" selection-start-column="18" selection-end-line="956" selection-end-column="18" />
-          <folding>
-            <element signature="e#36393#36394#0" expanded="true" />
-            <element signature="e#36459#36460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch6/serializable/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2176">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch6/serializable/TestUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/handler/codec/LengthFieldPrepender.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1264,13 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch4/correct/TimeServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
@@ -1361,36 +950,158 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch9/marshalling/SubReqServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="228">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        <state relative-caret-position="76">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/ChannelHandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="247">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/HeartBeatReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch12/client/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="72" column="67" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="72" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/TimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch2/MultiplexerTimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch3/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/nio/NioEventLoopGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/nio/NioEventLoop.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/channel/SingleThreadEventLoop.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="33" column="111" selection-start-line="33" selection-start-column="111" selection-end-line="33" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/OrderedEventExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/EventExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final.jar!/io/netty/util/concurrent/EventExecutorGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="93" column="57" selection-start-line="93" selection-start-column="57" selection-end-line="93" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch21/ThreadStopε/lCampte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="135" column="31" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Nova/ch21/ThreadStopExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
