@@ -21,6 +21,10 @@ public class HttpJsonRequestEncoder extends AbstractHttpJsonEncoder<HttpJsonRequ
         if (request == null) {
             request = new DefaultFullHttpRequest(HttpVersion.HTTP_1_1,
                     HttpMethod.GET, "/do", body);
+/*
+            request = new DefaultFullHttpRequest(HttpVersion.HTTP_1_1,
+                    HttpMethod.POST, "/do", body);
+*/
             HttpHeaders headers = request.headers();
             headers.set(HttpHeaderNames.HOST, InetAddress.getLocalHost()
                     .getHostAddress());

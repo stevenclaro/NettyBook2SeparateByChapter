@@ -6,10 +6,7 @@ import Nova.ch10.http.json.codec.HttpJsonResponse;
 import Nova.ch10.http.json.pojo.Address;
 import Nova.ch10.http.json.pojo.Order;
 import io.netty.buffer.Unpooled;
-import io.netty.channel.ChannelFuture;
-import io.netty.channel.ChannelFutureListener;
-import io.netty.channel.ChannelHandlerContext;
-import io.netty.channel.SimpleChannelInboundHandler;
+import io.netty.channel.*;
 import io.netty.handler.codec.http.*;
 import io.netty.util.CharsetUtil;
 import io.netty.util.concurrent.Future;
@@ -40,6 +37,7 @@ public class HttpJsonServerHandler extends SimpleChannelInboundHandler<HttpJsonR
                 }
             });
         }
+        //ChannelPromise promise = (ChannelPromise) ctx.writeAndFlush(new HttpJsonResponse(null, order));
     }
 
     private void dobusiness(Order order) {

@@ -206,6 +206,7 @@ public class HttpFileServerHandler extends
 	ctx.writeAndFlush(response).addListener(ChannelFutureListener.CLOSE);
     }
 
+
     private static void sendError(ChannelHandlerContext ctx,
                                   HttpResponseStatus status) {
 	FullHttpResponse response = new DefaultFullHttpResponse(HTTP_1_1,
