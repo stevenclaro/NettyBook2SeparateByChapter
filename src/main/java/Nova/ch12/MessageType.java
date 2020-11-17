@@ -33,6 +33,6 @@ public enum MessageType {
     }
 
     public byte value() {
-	return this.value;
+	    return this.value;
     }
 }
